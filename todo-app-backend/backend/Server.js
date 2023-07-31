@@ -10,7 +10,7 @@ const PORT = process.env.PORT || 5000; // set the port
 app.use(express.json()); // use express.json() middleware
 app.use(cors()); // use cors middleware
 mongoose
-  .connect('mongodb+srv://HrishikeshBade:noodles007@cluster0.nqwyg.mongodb.net/ToDoApp?retryWrites=true&w=majority', { useNewUrlParser: true, useUnifiedTopology: true })
+  .connect('', { useNewUrlParser: true, useUnifiedTopology: true })
   .then(() => console.log('MongoDB connected')) // log the message
   .catch(err => console.log(err)); // log the error
 
