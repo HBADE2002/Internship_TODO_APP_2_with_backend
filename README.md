@@ -12,5 +12,9 @@ The images of the application are provided below
 3. Users can also Edit a task and add more details to it
 <img width="450" alt="image" src="https://github.com/HBADE2002/Internship_TODO_APP_2_with_backend/assets/78660475/2ca88168-9799-489d-b48f-74a40f4b52f6">
 
+The Backend database can be seen by following image, by sending a "GET" request on Postman
+<img width="359" alt="image" src="https://github.com/HBADE2002/Internship_TODO_APP_2_with_backend/assets/78660475/0485a78f-40fb-4627-8c49-eaeee230669e">
+
+
 
 
